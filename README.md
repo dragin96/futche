@@ -8,4 +8,4 @@
 2. ```cd path/to/...```
 3. ```npm install gulp -g```  
 4. ```npm install```
-6. ```gulp``
+6. ```gulp```
